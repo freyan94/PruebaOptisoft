@@ -1,2 +1,0 @@
-# PruebaOptisoft
-Repositorio de prueba 
